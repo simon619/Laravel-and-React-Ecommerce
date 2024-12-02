@@ -3,5 +3,6 @@
         echo $i . '</br>';
         echo 'master current state';
         echo 'This is added from test branch 6';
+        echo 'This is added from master branch';
     }
 ?>
