@@ -4,6 +4,7 @@
 
         echo $i . '</br>';
         echo 'Test 5 Branch';
+        echo "master";
 
     }
 
